@@ -40,6 +40,10 @@ Welcome to my GitHub profile! I'm passionate about learning cloud technologies, 
 - Learn to build automated CI/CD pipelines.
 - Develop hands-on experience with AWS services.
 
----
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [Nandhini](https://github.com/Nandhini-1234567)
+
 
 ⭐ *Learning every day. Building step by step. Growing continuously.*
