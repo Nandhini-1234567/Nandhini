@@ -2,7 +2,7 @@
 My AWS DevOps Learning Journey | Linux, Git, Docker, Jenkins, CI/CD & AWS
 # Hi, I'm Nandhini 👋
 
-### Aspiring AWS DevOps Engineer 
+### AWS DevOps Engineer 
 
 Welcome to my GitHub profile! I'm passionate about learning cloud technologies, DevOps practices, and automation to build reliable and scalable solutions.
 
